@@ -16,5 +16,5 @@ um gerente.
 `Execução`: Na mesma pasta do projeto agora com a etapa acima efetuada, pode ser executado através do comando 'npm start' no terminal assim como mostra o gif abaixo.
 
 <p align="center">
-  <img width="500" height="300" src="gif/atv_erinaldo.gif"
+  <img width="800" height="500" src="gif/atv_erinaldo.gif"
 </p>
